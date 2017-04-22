@@ -1,4 +1,5 @@
-//led_file
+//led_file  ;;;
 #include"reg51.h"
 #typedef uchar unsigned char;
 #typedef uint unsigned int;
+Just several minutes ago, i have a joke with myself.
