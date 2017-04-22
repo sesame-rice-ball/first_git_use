@@ -1,1 +1,4 @@
-西湖的水，我的泪。
+//led_file
+#include"reg51.h"
+#typedef uchar unsigned char;
+#typedef uint unsigned int;
